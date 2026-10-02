@@ -28,3 +28,12 @@ Welcome to the **Aerofuel Refueling Supervision**, a professional-grade AI syste
 - **Testing:** Integrated fuzzy rules testing via Python scripts
 
 ### 📁 Project Structure
+Aerofuel-Refueling-Supervision/
+└───aircraft_refueling/
+     ├─── aircraft_refueling.py      # Core Refueling Logic & Fuzzy Database
+     ├─── templates/
+     │    ├─── index.html            # Main Supervision Console UI
+     │    └─── dashboard.html        # Fuel Management Page
+     └─── static/
+          ├─── style.css             # Custom UI Styling & Theme
+          └─── script.js             # Frontend Logic & API Handling
