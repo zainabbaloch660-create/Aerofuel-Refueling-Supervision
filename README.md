@@ -37,3 +37,4 @@ Aerofuel-Refueling-Supervision/
      └─── static/
           ├─── style.css             # Custom UI Styling & Theme
           └─── script.js             # Frontend Logic & API Handling
+### 📁 Project Structure
