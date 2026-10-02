@@ -1,4 +1,4 @@
-# 🚀 Aerofuel-Refueling-Supervision ⛽
+🚀 Aerofuel-Refueling-Supervision ⛽
 
 > "Smart. Efficient. AI-Powered Aircraft Refueling Management."
 
@@ -11,22 +11,20 @@ Welcome to the **Aerofuel Refueling Supervision**, a professional-grade AI syste
 ### ✨ Key Features
 
 #### 🧠 Intelligent Core
-- **Automated Fuel Calculation:** Instantly calculates required fuel based on flight distance, aircraft weight, and weather conditions.
-- **Fuzzy Logic Supervision:** Uses Fuzzy Logic (Low, Medium, High) to decide refueling speed and safety checks, just like a human expert.
-- **Safety Assistance:** Assists in evaluating fuel levels and providing real-time alerts to avoid overfilling or leakage.
+- *Automated Fuel Calculation:* Instantly calculates required fuel based on flight distance, aircraft weight, and weather conditions.
+- *Fuzzy Logic Supervision:* Uses Fuzzy Logic (Low, Medium, High) to decide refueling speed and safety checks, just like a human expert.
+- *Safety Assistance:* Assists in evaluating fuel levels and providing real-time alerts to avoid overfilling or leakage.
 
-#### 💻 Clean & Modern Implementation
-- **Interactive Simulation:** Beautifully structured Python console for easy interaction.
-- **Graph Visualization:** Real-time graphs for fuel level vs. time using Matplotlib.
-- **Error Handling:** Built-in checks for safe and efficient operations.
-
-### 🛠️ Tech Stack
-- **Language:** Python
-- **Libraries:** Scikit-Fuzzy, NumPy, Matplotlib
-- **Concepts:** Applied Physics, Control Systems, Fuzzy Inference System
-
-### 🚦 My Learning Journey
-This project started from my 1st Semester Applied Physics Traffic Light mini-project. From understanding basic signals to building an AI-based refueling supervisor, this has been an amazing learning curve.
+#### 🎨 Clean & Modern UI
+- *Interactive Dashboard:* Beautifully structured console for easy interaction.
+- *Responsive Layout:* Optimized for both desktop and mobile screens, making it easy to use on the go.
+- *Smooth User Experience:* Real-time supervision responses with clean styling and intuitive input fields.
 
 ---
-**Developed by:** Zainab Baloch |  AI & Engineering Enthusiast
+
+### 🛠️ Tech Stack
+- *Backend:* Python & Scikit-Fuzzy
+- *Frontend:* Matplotlib, NumPy
+- *Testing:* Integrated fuzzy rules testing via Python scripts
+
+### 📁 Project Structure
