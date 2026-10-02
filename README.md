@@ -29,12 +29,12 @@ Welcome to the **Aerofuel Refueling Supervision**, a professional-grade AI syste
 
 ### 📁 Project Structure
 Aerofuel-Refueling-Supervision/
-└───aircraft_refueling/
-     ├─── aircraft_refueling.py      # Core Refueling Logic & Fuzzy Database
-     ├─── templates/
-     │    ├─── index.html            # Main Supervision Console UI
-     │    └─── dashboard.html        # Fuel Management Page
-     └─── static/
-          ├─── style.css             # Custom UI Styling & Theme
-          └─── script.js             # Frontend Logic & API Handling
-### 📁 Project Structure
+├── aircraft_refueling.py      # Core Refueling Logic & Fuzzy Database
+├── templates/
+│   ├── index.html             # Main Supervision Console UI
+│   └── dashboard.html         # Fuel Management Page
+├── static/
+│   ├── style.css              # Custom UI Styling & Theme
+│   └── script.js              # Frontend Logic & API Handling
+├── graphs/                    # Simulation Results
+└── README.md                  # Project Documentation
